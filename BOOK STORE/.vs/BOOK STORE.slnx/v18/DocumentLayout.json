@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|c:\\bdsai\\asp\\examproject2\\book store\\pages\\book\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|solutionrelative:pages\\book\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|c:\\bdsai\\asp\\examproject2\\book store\\pages\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|solutionrelative:pages\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|c:\\bdsai\\asp\\examproject2\\book store\\pages\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|solutionrelative:pages\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|c:\\bdsai\\asp\\examproject2\\book store\\pages\\book\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|solutionrelative:pages\\book\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|c:\\bdsai\\asp\\examproject2\\book store\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Migrations\\20260520122958_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260520122958_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|c:\\bdsai\\asp\\examproject2\\book store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|c:\\bdsai\\asp\\examproject2\\book store\\dal\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|solutionrelative:dal\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|c:\\bdsai\\asp\\examproject2\\book store\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|solutionrelative:models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|c:\\bdsai\\asp\\examproject2\\book store\\book store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|solutionrelative:book store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|c:\\bdsai\\asp\\examproject2\\book store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4510DA-A88F-48D7-AEA4-13C4F6D67B41}|BOOK STORE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Pages\\Book\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Book\\Create.cshtml.cs",
+              "ToolTip": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Pages\\Book\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Book\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:39:07.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Pages\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Book\\Create.cshtml",
+              "ToolTip": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Pages\\Book\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T16:38:45.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T13:01:04.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Pages\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Book\\Index.cshtml",
+              "ToolTip": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Pages\\Book\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T12:44:45.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Pages\\Book\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Book\\Index.cshtml.cs",
+              "ToolTip": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Pages\\Book\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Book\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:45:38.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260520122958_initial.cs",
+              "DocumentMoniker": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Migrations\\20260520122958_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260520122958_initial.cs",
+              "ToolTip": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Migrations\\20260520122958_initial.cs",
+              "RelativeToolTip": "Migrations\\20260520122958_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:29:58.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:23:59.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T11:16:51.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyAppDBContext.cs",
+              "DocumentMoniker": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\DAL\\MyAppDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\MyAppDBContext.cs",
+              "ToolTip": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\DAL\\MyAppDBContext.cs",
+              "RelativeToolTip": "DAL\\MyAppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:02:50.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Models\\Books.cs",
+              "ToolTip": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\Models\\Books.cs",
+              "RelativeToolTip": "Models\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:54:23.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BOOK STORE",
+              "DocumentMoniker": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\BOOK STORE.csproj",
+              "RelativeDocumentMoniker": "BOOK STORE.csproj",
+              "ToolTip": "C:\\BDSAI\\ASP\\EXAMPROJECT2\\BOOK STORE\\BOOK STORE.csproj",
+              "RelativeToolTip": "BOOK STORE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-20T10:44:24.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
